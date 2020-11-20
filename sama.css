@@ -1,0 +1,37 @@
+body {
+	background: lightgray;
+	}
+
+a{
+	color:red;
+}
+
+a:hover{
+	color:blue;
+	background: white;
+	text-decoration: none;
+}
+
+h1{
+	font-family: "brodway" serif;
+	font-size: 35pt;
+}
+
+h2{
+	font-family: "verdana" serif;
+	font-size: 20pt;
+
+}
+
+h3{
+	font-family: "balet" serif;
+	font-size: 20pt;
+
+}
+
+h4{
+	font-family: "Ariel" serif;
+	font-size: 15pt;
+
+}
+
